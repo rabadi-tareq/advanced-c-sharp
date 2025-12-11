@@ -1,3 +1,6 @@
+// Copyright 2025 JamilWare Technologies LLC
+// SPDX-License-Identifier: gpl-3.0
+
 ﻿namespace LeetCode;
 
 public class RemoveDuplicatesFromSortedArray
